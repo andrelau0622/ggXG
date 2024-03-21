@@ -1,0 +1,12 @@
+Package: ggXG
+Title: Generate Y2K style palettes from XG`s MVs
+Version: 0.1.1
+Authors: 不会飞的郎飞结
+Maintainer: 不会飞的郎飞结 <2671217260@qq.com>
+Description: Generating Y2K style palettes inspired from XG's music video!
+             A package inspired by ggsci, created by 不会飞的郎飞结 of bilibili.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
+Imports: ggplot2
